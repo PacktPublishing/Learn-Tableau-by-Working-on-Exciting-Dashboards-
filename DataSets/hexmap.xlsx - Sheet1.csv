@@ -1,0 +1,52 @@
+Row,Column,State,Abbreviation
+0,0.50,Alaska,AK
+6,7.50,Alabama,AL
+5,6.00,Arkansas,AR
+5,3.00,Arizona,AZ
+5,2.00,California,CA
+4,3.50,Colorado,CO
+3,11.00,Connecticut,CT
+5,12.00,District of Columbia,DC
+4,9.50,Delaware,DE
+8,8.50,Florida,FL
+7,8.00,Georgia,GA
+8,0.50,Hawaii,HI
+3,5.00,Iowa,IA
+3,2.00,Idaho,ID
+3,6.00,Illinois,IL
+3,7.00,Indiana,IN
+5,5.00,Kansas,KS
+4,6.50,Kentucky,KY
+6,5.50,Louisiana,LA
+2,10.50,Massachusetts,MA
+4,8.50,Maryland,MD
+0,11.50,Maine,ME
+2,7.50,Michigan,MI
+2,4.50,Minnesota,MN
+4,5.50,Missouri,MO
+6,6.50,Mississippi,MS
+2,2.50,Montana,MT
+5,9.00,North Carolina ,NC
+2,3.50,North Dakota ,ND
+4,4.50,Nebraska ,NE
+1,11.00,New Hampshire ,NH
+3,10.00,New Jersey ,NJ
+6,3.50,New Mexico ,NM
+4,2.50,Nevada ,NV
+2,9.50,New York ,NY
+3,8.00,Ohio ,OH
+6,4.50,Oklahoma ,OK
+4,1.50,Oregon ,OR
+3,9.00,Pennsylvania,PA
+2,11.50,Rhode Island ,RI
+6,8.50,South Carolina ,SC
+3,4.00,South Dakota ,SD
+5,7.00,Tennessee ,TN
+7,4.00,Texas ,TX
+5,4.00,Utah ,UT
+5,8.00,Virginia ,VA
+1,10.00,Vermont ,VT
+2,1.50,Washington ,WA
+2,5.50,Wisconsin ,WI
+4,7.50,West Virginia ,WV
+3,3.00,Wyoming,WY
